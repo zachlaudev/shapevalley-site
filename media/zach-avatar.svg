@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="t"><title id="t">Illustrated avatar of Zach, maker of Shape Valley</title>
+<defs><clipPath id="c"><circle cx="100" cy="100" r="100"/></clipPath><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E3F1FD"/><stop offset="1" stop-color="#D2F0E2"/></linearGradient></defs>
+<g clip-path="url(#c)">
+<rect width="200" height="200" fill="url(#bg)"/>
+<path d="M30 210 C30 160 62 142 100 142 C138 142 170 160 170 210Z" fill="#8EC9F5"/>
+<path d="M84 142 L100 162 L116 142Z" fill="#FFF7EC"/>
+<rect x="88" y="120" width="24" height="26" rx="10" fill="#E9B48F"/>
+<ellipse cx="62" cy="98" rx="9" ry="12" fill="#E9B48F"/><ellipse cx="138" cy="98" rx="9" ry="12" fill="#E9B48F"/>
+<ellipse cx="100" cy="96" rx="38" ry="42" fill="#F2C29E"/>
+<path d="M63 92 C62 84 64 78 70 76 L70 96Z M137 92 C138 84 136 78 130 76 L130 96Z" fill="#6B4B3A"/><path d="M60 88 C56 40 144 40 140 88 Z" fill="#FF8A7A"/>
+<path d="M100 82 C122 78 150 80 164 88 C152 95 122 93 100 90Z" fill="#EE7666"/>
+<circle cx="100" cy="47" r="4.5" fill="#EE7666"/>
+<path d="M61 88 Q100 81 139 88" stroke="#E46E5F" stroke-width="3" fill="none"/>
+<circle cx="86" cy="100" r="3.6" fill="#1F2A44"/><circle cx="114" cy="100" r="3.6" fill="#1F2A44"/>
+<path d="M89 115 Q100 124 111 115" stroke="#1F2A44" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+<circle cx="78" cy="111" r="5" fill="#FF8A7A" opacity=".35"/><circle cx="122" cy="111" r="5" fill="#FF8A7A" opacity=".35"/>
+</g></svg>
