@@ -1,0 +1,26 @@
+# Shape Valley
+
+> Shape Valley (Shape Valley: Tiny Drivers) is a calm, low-stimulation driving game for kids aged 6–8 on iPhone and iPad. It has four gentle modes (Calm Drive, Taxi, Tidy Dozer and Lawnmower), no ads, no tracking, no accounts, and works offline. It is launching on the App Store soon.
+
+Shape Valley was made by Zach (Zachary Lau), a dad whose son got overwhelmed by busy, fast-paced kids' games. He built a calmer driving game for him; his son's schoolmates played it too, and other parents asked for a public version.
+
+Key facts:
+- Platform: iOS and iPadOS (iPhone and iPad)
+- Age range: 6–8 (App Store kids age band)
+- Modes: Calm Drive (free driving through soft hills), Taxi (pick up and drop off passengers), Tidy Dozer (push balls and toys into a hole), Lawnmower (mow stripes until the garden is done)
+- Design: soft colours, slow motion, quiet sounds; no timers, scores, streaks or "game over"
+- Privacy: no ads, no tracking or analytics, no accounts; works offline (only buying or restoring a subscription needs a connection)
+- Parent Zone: play-time limit, driving speed and time of day, behind a grown-up gate
+- Pricing: free Basic plan; Family plan with a 7-day free trial, then US$29.99/year
+- Status: launching on the App Store soon
+- Contact: zachlaudev@gmail.com
+
+## Pages
+
+- [Home](https://shapevalleygame.com/): overview of the game, the four modes, gameplay video and parent FAQ
+- [About Zach](https://shapevalleygame.com/about/): the founder story behind Shape Valley
+- [Blog](https://shapevalleygame.com/blog/): parent guides on calm, low-stimulation play
+- [What are low-stimulation games?](https://shapevalleygame.com/blog/low-stimulation-games-for-kids/): a parent's guide with screen-time guidance from the WHO and AAP
+- [Calm games for kids](https://shapevalleygame.com/blog/calm-games-for-kids/): an honest dad's shortlist of calm apps and offline ideas
+- [Support](https://shapevalleygame.com/support/): help and contact
+- [Privacy Policy](https://shapevalleygame.com/privacy/): what data is (not) collected
