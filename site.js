@@ -15,7 +15,7 @@ if(!('IntersectionObserver' in window)){v.play().catch(function(){});return;}
 new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){v.play().catch(function(){v.controls=true});}else{v.pause();}})},{threshold:.25}).observe(v);});
 })();
 /* Launch list signup. Paste the Apps Script web app URL below. */
-var LAUNCH_ENDPOINT="REPLACE_WITH_APPS_SCRIPT_URL";
+var LAUNCH_ENDPOINT="https://script.google.com/macros/s/AKfycbxZBNmaDSXjvQp1KRVSKb59kY1B5Hh-_kd0g6VA-d2jxQfOnNFcJnvlylGToiwdabYHCQ/exec";
 (function(){var f=document.getElementById('launch-form');if(!f)return;var m=f.querySelector('.signup-msg'),b=f.querySelector('button');
 function say(t,ok){m.textContent=t;m.className='signup-msg '+(ok?'ok':'err');}
 f.addEventListener('submit',function(e){e.preventDefault();
