@@ -1,6 +1,6 @@
 # Shape Valley
 
-> Shape Valley (Shape Valley: Tiny Drivers) is a calm, low-stimulation driving game for kids aged 6–8 on iPhone and iPad. It has four gentle modes (Calm Drive, Taxi, Tidy Dozer and Lawnmower), no ads, no tracking, no accounts, and works offline. It is launching on the App Store soon.
+> Shape Valley (Shape Valley: Tiny Drivers) is a calm, low-stimulation driving game for kids aged 6–8 on iPhone and iPad. It has four gentle modes (Calm Drive, Taxi, Tidy Dozer and Lawnmower), no ads, no tracking in the app, no accounts, and works offline. It is launching on the App Store soon.
 
 Shape Valley was made by Zach (Zachary Lau), a dad whose son got overwhelmed by busy, fast-paced kids' games. He built a calmer driving game for him; his son's schoolmates played it too, and other parents asked for a public version.
 
@@ -9,7 +9,7 @@ Key facts:
 - Age range: 6–8 (App Store kids age band)
 - Modes: Calm Drive (free driving through soft hills), Taxi (pick up and drop off passengers), Tidy Dozer (push balls and toys into a hole), Lawnmower (mow stripes until the garden is done)
 - Design: soft colours, slow motion, quiet sounds; no timers, scores, streaks or "game over"
-- Privacy: no ads, no tracking or analytics, no accounts; works offline (only buying or restoring a subscription needs a connection)
+- Privacy: no ads, no tracking or analytics in the app, no accounts (the website’s /launch/ pages use a Google Ads conversion tag); works offline (only buying or restoring a subscription needs a connection)
 - Parent Zone: play-time limit, driving speed and time of day, behind a grown-up gate
 - Pricing: free Basic plan; Family plan with a 7-day free trial, then US$29.99/year
 - Status: launching on the App Store soon
