@@ -231,3 +231,11 @@ img,svg,video{max-width:100%}
 @media (max-width:640px){.proscons,.related-grid,.figure-grid{grid-template-columns:1fr}.toc ol{columns:1}.callout{padding-left:50px}}
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .compare td{min-width:128px}.compare{min-width:900px}@media (max-width:640px){.compare{font-size:14px}.compare tr>:first-child{min-width:118px;max-width:130px}}
+.signup{margin:28px 0;padding:22px;border:1px solid var(--line);border-radius:var(--r-sm);background:#FBFCFE}
+.signup label{font-weight:700;color:var(--ink);display:block;margin-bottom:8px}
+.signup-row{display:flex;gap:10px;flex-wrap:wrap}.signup-row input{flex:1 1 220px;padding:13px 14px;font:inherit;border:1px solid var(--line);border-radius:12px;background:#fff}
+.signup .btn-primary{padding:13px 20px;border:0;border-radius:12px;background:#2E8A62;color:#fff;font:inherit;font-weight:700;cursor:pointer}.signup .btn-primary:disabled{opacity:.6}
+.signup .check{display:flex;gap:10px;align-items:center;font-weight:400;margin:14px 0 6px}.signup .check input{width:18px;height:18px}
+.signup .consent{font-size:14px;color:var(--soft);margin:6px 0 0}.signup-msg{margin:10px 0 0;font-weight:700}.signup-msg.ok{color:#2E8A62}.signup-msg.err{color:#B5554A}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.launch-strip{margin:18px 0 0;font-size:15px}.launch-strip a{font-weight:700}
