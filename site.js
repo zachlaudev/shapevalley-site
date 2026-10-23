@@ -25,6 +25,6 @@ if(f.website.value){say('Thanks! You\u2019re on the list.',1);f.reset();return;}
 if(LAUNCH_ENDPOINT.indexOf('http')!==0){say('Sign-ups open very soon. Please check back, or email zachlaudev@gmail.com.');return;}
 b.disabled=true;say('Joining\u2026',1);
 fetch(LAUNCH_ENDPOINT,{method:'POST',mode:'no-cors',body:new URLSearchParams({email:em,parent:'yes',website:'',source:location.pathname})})
-.then(function(){say('Thanks! You\u2019re on the list. We\u2019ll email you once, on launch day.',1);f.reset();})
+.then(function(){location.href='/launch/thanks/';})
 .catch(function(){say('Sorry, something went wrong. Please try again, or email zachlaudev@gmail.com.');})
 .finally(function(){b.disabled=false;});});})();
