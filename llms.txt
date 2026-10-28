@@ -1,6 +1,6 @@
 # Shape Valley
 
-> Shape Valley (Shape Valley: Tiny Drivers) is a calm, low-stimulation driving game for kids aged 6–8 on iPhone and iPad. It has four gentle modes (Calm Drive, Taxi, Tidy Dozer and Lawnmower), no ads, no tracking in the app, no accounts, and works offline. It is launching on the App Store soon.
+> Shape Valley (Shape Valley: Tiny Drivers) is a calm, low-stimulation driving game for kids aged 6–8 on iPhone and iPad. It has four gentle modes (Calm Drive, Taxi, Tidy Dozer and Lawnmower), no ads, no tracking in the app, no accounts, and works offline. It is out now on the App Store: https://apps.apple.com/app/shape-valley-tiny-drivers/id6824337876
 
 Shape Valley was made by Zach (Zachary Lau), a dad whose son got overwhelmed by busy, fast-paced kids' games. He built a calmer driving game for him; his son's schoolmates played it too, and other parents asked for a public version.
 
@@ -12,12 +12,13 @@ Key facts:
 - Privacy: no ads, no tracking or analytics in the app, no accounts (the website’s /launch/ pages use a Google Ads conversion tag); works offline (only buying or restoring a subscription needs a connection)
 - Parent Zone: play-time limit, driving speed and time of day, behind a grown-up gate
 - Pricing: free Basic plan; Family plan with a 7-day free trial, then US$29.99/year
-- Status: launching on the App Store soon
+- Status: live on the App Store (https://apps.apple.com/app/shape-valley-tiny-drivers/id6824337876)
 - Contact: zachlaudev@gmail.com
 
 ## Pages
 
-- [Launch list](https://shapevalleygame.com/launch/): parents can join a one-email launch list (email only, parents 18+)
+- [App Store](https://apps.apple.com/app/shape-valley-tiny-drivers/id6824337876): download Shape Valley
+- [Email the link](https://shapevalleygame.com/launch/): parents can get one email with the link (email only, parents 18+)
 - [Home](https://shapevalleygame.com/): overview of the game, the four modes, gameplay video and parent FAQ
 - [About Zach](https://shapevalleygame.com/about/): the founder story behind Shape Valley
 - [Blog](https://shapevalleygame.com/blog/): parent guides on calm, low-stimulation play
